@@ -2,8 +2,8 @@
 
 You can use this link to navigate to [My Blog](https://wychootf4.github.io/MyBlog/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Below are some syntax for Markdown:
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
