@@ -1,6 +1,6 @@
 ## Welcome to Raymond's Website
 
-You can use this link to navigate to [My Blog](https://github.com/wychootf4/wychootf4.github.io/MyBlog/).
+You can use this link to navigate to [My Blog](https://wychootf4.github.io/MyBlog/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
