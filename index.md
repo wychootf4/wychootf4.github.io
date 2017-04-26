@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Raymond's Website
 
-You can use the [editor on GitHub](https://github.com/wychootf4/wychootf4.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use this link to navigate to [My Blog](https://github.com/wychootf4/wychootf4.github.io/MyBlog/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
